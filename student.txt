@@ -1,1 +1,2 @@
 student name: ravi
+student course:cse
